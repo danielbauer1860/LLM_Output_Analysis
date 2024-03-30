@@ -1,5 +1,4 @@
-# Evaluating the output of Large Language Models: An explorative corpus-based
-approach
+# Evaluating the output of Large Language Models: An explorative corpus-based approach
 
 Considering that this project was separated into several key steps, it is recommended that this repository be looked at in the following order:
 
