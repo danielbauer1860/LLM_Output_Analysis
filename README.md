@@ -12,6 +12,8 @@ This project aims to provide an explorative study on how corpus linguistic techn
 so much?
 3. Can these methods be used to provide some degree of further explainability?
 
+
+## Structure
 Considering that this project was separated into several key steps, it is recommended that this repository be looked at in the following order:
 
 1. Look at the data_preprocessing notebook in the processing folder
@@ -19,3 +21,5 @@ Considering that this project was separated into several key steps, it is recomm
 3. The generation folder
 4. The processing_to_txt in the processing folder
 5. The analysis folder
+
+Further details regarding the implementation and results are presented in the accompanying paper.
