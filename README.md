@@ -1,6 +1,8 @@
 # Evaluating the output of Large Language Models: An explorative corpus-based approach
 Daniel Bauer, March 2024
+
 Project in 'Linguistic Data Science'
+
 Final Grade: 1,0
 
 ## Goal
